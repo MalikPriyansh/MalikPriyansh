@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MalikPriyansh
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Data structures and I will start development very soon
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me , you can mail me at priyanshmalik332@gmail.com
 
